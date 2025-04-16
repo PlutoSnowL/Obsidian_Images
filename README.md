@@ -1,0 +1,2 @@
+# Obsidian_Images
+存储obsidian中引用到的所有图片素材
